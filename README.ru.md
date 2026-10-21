@@ -126,6 +126,16 @@ VTK RenderEvent ──▶ gtk_gl_area_queue_render()
 
 Проект распространяется по лицензии Apache License 2.0 — подробности см. в файле LICENSE.
 
+## Скриншоты
+
+![с GTK+-3.0](VTKGTK3Example.png)
+---
+с использованием GTK+-3.0
+
+![с GTK 4](VTKGTK4Example.png)
+---
+с использованием GTK4
+
 ## Благодарности
 
 Код отлажен совместно с Claude (Anthropic): поиск причин сегфолтов по backtrace,
