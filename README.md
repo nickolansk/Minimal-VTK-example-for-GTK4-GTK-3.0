@@ -133,6 +133,16 @@ calls `redraw(a)`, then bind it to a key in `on_key` and to a button in the head
 
 Project is licensed under the Apache License 2.0 — see the LICENSE file for details.
 
+## Screenshots
+
+![With GTK+-3.0](VTKGTK3Example.png)
+---
+*With GTK+-3.0*
+
+![With GTK 4](VTKGTK4Example.png)
+---
+*With GTK 4*
+
 ## Acknowledgements
 
 Developed together with Claude (Anthropic): finding the cause of the segfaults from
